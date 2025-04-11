@@ -5,5 +5,5 @@
         <a class="hover:grayscale" href="https://www.facebook.com/profile.php?id=61568327004662"><img class="inline w-8 mx-4" src="/facebook.svg" alt="Success In Maths Facebook"></a>
 	</div>
 <a aria-label="Chat on WhatsApp" href="https://wa.me/61468473016"> <img alt="Chat on WhatsApp" src="/WhatsApp.svg" />
-<a/>
+</a>
 </div>
