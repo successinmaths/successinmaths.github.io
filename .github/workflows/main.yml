@@ -33,6 +33,9 @@ jobs:
       - run: npm install
       - run: npm run build
 
+      - name: Copy CNAME file
+        run: cp CNAME ./build
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/main'
