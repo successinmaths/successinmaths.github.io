@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,12 +10,17 @@
    height="1122.5601"
    width="793.76001"
    xml:space="preserve"
+   baseProfile="tiny-ps"
    id="svg2"
-   version="1.1"><metadata
+   version="1.2">
+   
+   <title>Success In Maths Belrose</title>
+   <metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
+     id="defs6">
+              <clipPath
        id="clipPath18"
        clipPathUnits="userSpaceOnUse"><path
          style="clip-rule:evenodd"
