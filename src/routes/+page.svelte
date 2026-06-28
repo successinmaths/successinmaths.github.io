@@ -14,7 +14,15 @@
         <i class="fa-brands fa-whatsapp text-[#25D366] hover:text-black transition duration-300"></i>
     </a>
 
-</div>
+    </div>
+    <div class="m-auto mt-2 text-center text-sm">
+        <a
+            class="text-gray-500 no-underline hover:text-gray-700 hover:underline transition duration-300"
+            href="mailto:admin@successinmaths.com.au"
+        >
+            admin@successinmaths.com.au
+        </a>
+    </div>
 
 
 
